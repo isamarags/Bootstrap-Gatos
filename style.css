@@ -1,0 +1,43 @@
+body {
+display: grid;
+place-items: center;
+}
+
+.nav.nav-pills {
+  justify-content: center;
+  margin: 15px 0;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+  color: #fff;
+  background-color: #676a6d;
+}
+
+.nav-link {
+  color: #000;
+}
+
+.nav-link:hover {
+  color: brown;
+}
+
+.conteudo-primario {
+  margin: 0 0 15px 0 ;
+}
+
+.content {
+  text-align: center;
+}
+
+h1 {
+  margin: 30px 0;
+}
+
+h4 {
+  text-align: center;
+}
+.paragrafo-inicial {
+  width: 50rem;
+  height: 5.5rem;
+  margin: 20px 0;
+}
